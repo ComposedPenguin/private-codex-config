@@ -1,0 +1,4 @@
+# Never commit local Codex state, credentials, or generated files.
+codex/local/
+codex/generated/
+.DS_Store
